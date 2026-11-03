@@ -67,4 +67,4 @@ What the owner changed before sending: shorter, more personal, one emoji, merged
 - After placing it, tell the user to read it and send it.
 
 ## Logging
-`channel=facebook`, `place=<group name>`, link to the post, the author's display name (or "anonymous"), a short summary of what they asked, the sent text.
+`channel=facebook`, `place=<group name>`, link to the post, a short summary of what they asked (no names), the sent text.

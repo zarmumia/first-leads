@@ -43,4 +43,4 @@ When someone posts "I need a…", "looking for a freelancer who…", or asks peo
 - Enter can send in LinkedIn messages. Use Shift+Enter for line breaks, never press Enter, never click Post or Send.
 
 ## Logging
-`channel=linkedin`, `place=post|comment|connection|message`, link, the person's name, what the post was about, the sent text.
+`channel=linkedin`, `place=post|comment|connection|message`, link, what the post was about (no names), the sent text.
