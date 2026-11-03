@@ -2,6 +2,14 @@
 
 These rules apply to every skill in First Leads. They protect the user's accounts. Platforms change their terms; when unsure, choose the more careful option and tell the user to check the platform's current rules.
 
+## Rules change: keep them fresh
+
+This file is a careful baseline, not a live copy of each platform's terms. Group and community rules change often, and platform terms change too. So:
+- **Group and community rules:** saved in `channels.md` with the date they were read. Re-read a place's rules before the first comment of a session if they were saved more than 30 days ago, if the place shows a new or pinned rules post, or after any warning or removed comment there. Update `channels.md` with the new date.
+- **Platform terms:** once a month (in the weekly review), remind the user to glance at each platform's official rules page, or offer to open it with them and read what changed: Facebook Community Standards and Terms, LinkedIn User Agreement and Professional Community Policies, Upwork Terms of Service and the rules on communication and payments outside Upwork.
+- **Any warning, restriction, removed comment or rejected proposal:** stop using that channel for the day, read the relevant rules with the user, and adjust before going back.
+- When a page's rules contradict this file, the stricter rule wins.
+
 ## Rules for every channel
 
 - **No automatic sending, ever.** Drafts only. The user clicks every Send, Post, Comment, Connect and Submit.
