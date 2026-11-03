@@ -1,6 +1,6 @@
 {
   "name": "zarmumia-first-leads",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "description": "A step-by-step coach that helps freelancers, young businesses and founders get their first leads, pilot partners and collaborations without paying for ads: it finds the right conversations in communities, LinkedIn and Upwork, drafts replies in your own voice, and you send every message yourself.",
   "author": {
     "name": "Zarmumia",
@@ -18,5 +18,10 @@
     "upwork"
   ],
   "license": "SEE LICENSE IN LICENSE",
-  "displayName": "First Leads by Zarmumia"
+  "displayName": "First Leads by Zarmumia",
+  "repository": "https://github.com/zarmumia/first-leads",
+  "documentationUrl": "https://github.com/zarmumia/first-leads#readme",
+  "supportUrl": "https://zarmumia.co.il/en/",
+  "privacyPolicyUrl": "https://github.com/zarmumia/first-leads#privacy",
+  "termsOfServiceUrl": "https://github.com/zarmumia/first-leads/blob/main/LICENSE"
 }
