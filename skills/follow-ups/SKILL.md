@@ -30,4 +30,4 @@ Read `${CLAUDE_PLUGIN_ROOT}/skills/first-leads/references/platform-rules.md` and
 
 ## When a lead becomes a conversation
 
-Help the user prepare: a short summary of what the person asked and said, two or three questions to understand their situation, and one simple proposal for a next step. Remind the user: the goal of the first call is to understand, not to sell everything.
+Help the user prepare: a short summary of what the person asked and said (read from the thread through the link; do not save their name or details in the files), two or three questions to understand their situation, and one simple proposal for a next step. Remind the user: the goal of the first call is to understand, not to sell everything.
