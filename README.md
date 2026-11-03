@@ -49,7 +49,7 @@ Say: **"Start First Leads"**.
 
 ## Privacy
 
-Your data stays in your files and your Claude account. Zarmumia receives nothing. The lead log holds only what you need to follow up: the name shown on a post, a link, and what was asked. Delete the folder to delete everything.
+Your data stays in your files and your Claude account. Zarmumia receives nothing. The lead log stores no names, emails or phone numbers: only a link to the post or job, where it was, and a short summary of what was asked. Delete the folder to delete everything.
 
 ## Support
 
