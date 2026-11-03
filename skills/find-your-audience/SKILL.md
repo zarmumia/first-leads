@@ -32,7 +32,7 @@ Read `${CLAUDE_PLUGIN_ROOT}/skills/first-leads/references/platform-rules.md` fir
 Updated: <date>
 
 ## Facebook groups
-| Group | Link | Why it fits | Activity | Rules to remember |
+| Group | Link | Why it fits | Activity | Rules to remember | Rules read on |
 
 ## LinkedIn searches
 | Search | What it finds |
