@@ -27,7 +27,8 @@ Keep everything in a folder named `first-leads` in the user's working folder:
 | `leads-log.csv` | Every comment, message and proposal sent, and what happened | daily-leads, follow-ups |
 | `progress.md` | Current stage, today's counts, notes from weekly reviews | all skills |
 
-`leads-log.csv` columns: `date,channel,place,post_or_job_link,person,what_they_asked,what_we_sent,status,next_step_date,notes`.
+`leads-log.csv` columns: `date,channel,place,post_or_job_link,what_they_asked,what_we_sent,status,next_step_date,notes`.
+The log never stores names, emails, phone numbers or other personal details. The link to the post, job or conversation is enough to find the person again on the platform.
 Status values: `drafted`, `sent`, `replied`, `conversation`, `meeting`, `client`, `no_reply`, `not_a_fit`.
 
 ## How to guide the user
