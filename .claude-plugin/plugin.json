@@ -1,0 +1,22 @@
+{
+  "name": "zarmumia-first-leads",
+  "version": "0.7.1",
+  "description": "A step-by-step coach that helps freelancers, young businesses and founders get their first leads, pilot partners and collaborations without paying for ads: it finds the right conversations in communities, LinkedIn and Upwork, drafts replies in your own voice, and you send every message yourself.",
+  "author": {
+    "name": "Zarmumia",
+    "email": "info@zarmumia.co.il",
+    "url": "https://zarmumia.co.il/en/"
+  },
+  "homepage": "https://zarmumia.co.il/en/",
+  "keywords": [
+    "lead generation",
+    "freelancers",
+    "small business",
+    "human in the loop",
+    "community",
+    "linkedin",
+    "upwork"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "displayName": "First Leads by Zarmumia"
+}
